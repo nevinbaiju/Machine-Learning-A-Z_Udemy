@@ -26,3 +26,7 @@ This repository contains the notes and code, along with the data sets of the exe
 - Naive Bayes
 - Decision Tree Classification
 - Random Forest Classification
+
+### 4) Clustering
+- K-Means Clustering (Elbow method)
+- Hierachical Clustering (Aggolomerative method, Dendrograms)
