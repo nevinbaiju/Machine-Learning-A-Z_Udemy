@@ -30,3 +30,11 @@ This repository contains the notes and code, along with the data sets of the exe
 ### 4) Clustering
 - K-Means Clustering (Elbow method)
 - Hierachical Clustering (Aggolomerative method, Dendrograms)
+
+### 5) Associative Rule Learning
+- Apriori
+- Eclat (concept only)
+
+### 6) Reinforcement Learning
+- Upper Confidence Bound
+- Thompsons Sampling
