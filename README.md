@@ -38,3 +38,6 @@ This repository contains the notes and code, along with the data sets of the exe
 ### 6) Reinforcement Learning
 - Upper Confidence Bound
 - Thompsons Sampling
+
+### 7) Natural Language Processing
+- Bag of Words Model(stop words removal, stemming, etc using NLTK)
