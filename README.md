@@ -41,3 +41,7 @@ This repository contains the notes and code, along with the data sets of the exe
 
 ### 7) Natural Language Processing
 - Bag of Words Model(stop words removal, stemming, etc using NLTK)
+
+### 8) Deep Learning
+- Artificial Neural Networks(Activation functions, back propagation, stochastic gradient descent)
+- Convolutional Neural Networks
