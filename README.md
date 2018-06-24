@@ -44,4 +44,7 @@ This repository contains the notes and code, along with the data sets of the exe
 
 ### 8) Deep Learning
 - Artificial Neural Networks(Activation functions, back propagation, stochastic gradient descent)
-- Convolutional Neural Networks
+- Convolutional Neural Networks (Convolution, ReLu, Pooling, Flattening, Fully Connected Layer)
+
+### 9) Dimensionality Reduction
+- Principal Component Analysis
