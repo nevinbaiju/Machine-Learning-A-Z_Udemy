@@ -48,3 +48,4 @@ This repository contains the notes and code, along with the data sets of the exe
 
 ### 9) Dimensionality Reduction
 - Principal Component Analysis
+- Linear Discriminant Analysis
