@@ -49,3 +49,7 @@ This repository contains the notes and code, along with the data sets of the exe
 ### 9) Dimensionality Reduction
 - Principal Component Analysis
 - Linear Discriminant Analysis
+
+### 10) Model Selection and Validation
+- K Fold Cross Validation
+- Grid Search
